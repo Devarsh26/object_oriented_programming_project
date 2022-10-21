@@ -26,14 +26,15 @@ Implemented a project using OOP concepts in JAVA.
 
 ## Screenshots
 
-#### Unified Modeling Language (UML) Diagram:
+### Unified Modeling Language (UML) Diagram:
+
+![image](https://user-images.githubusercontent.com/68999346/197127228-88d5cd3a-c68d-41e0-b627-6d470b85dcf6.png)
 
 
+### Output:
 
-#### Output:
+![image](https://user-images.githubusercontent.com/68999346/197127430-3e00587b-df86-417c-8a5d-a002e7bb355e.png)
 
 
-
-## Usage and Instructions
 
 
